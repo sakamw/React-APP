@@ -1,12 +1,32 @@
-# React + Vite
+# React Food App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive food listing application built with React. The project features a clean user interface with categorized food items, stylish cards, and responsive design – perfect for restaurants, food delivery platforms, or frontend portfolio demos.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React (Vite)
+- CSS3 with custom properties and media queries
+- Component-based architecture
 
-## Expanding the ESLint configuration
+## Installation & Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sakamw/React-APP
+cd react-app
+```
+
+1. Install dependencies:
+
+```bash
+pnpm install
+```
+
+1. Run the development server:
+
+```bash
+pnpm run dev
+```
+
+![Overview](image.png)
